@@ -1,0 +1,4 @@
+/venv
+/.ipynb_checkpoints
+/geckodriver-v0.29.1-win64
+/chromedriver_win32
